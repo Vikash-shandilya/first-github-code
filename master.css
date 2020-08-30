@@ -1,0 +1,64 @@
+*{
+
+
+}
+
+
+
+.container{
+
+  width: 80%;
+  margin: auto;
+}
+.box-1{
+  background-color: grey;
+  padding: 8px;
+  border: solid 2px red ;
+
+  line-height: 1.6em;
+  letter-spacing: 0.04em;
+  padding:15px 10px 15px 10px;
+  }
+
+.box-1 H1{
+  padding-top: 1px;
+  text-decoration: underline;
+  font-style: italic;
+
+
+}
+body{
+  font: 16px  ;
+}
+a:hover{
+  color: red;
+}
+
+.categories{
+  border: 2px solid red;
+  padding: 1px;
+  margin-top: 20px;
+  background-color: grey;
+
+
+}
+.categories h1{
+  text-align: center;
+  padding-top: 1px;
+
+}
+.categories ul{
+  list-style: none;
+  padding-left: 10px;
+
+}
+a{
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  line-height: 25px;
+
+}
+
+.categories li{
+  padding: 10px;
+}
